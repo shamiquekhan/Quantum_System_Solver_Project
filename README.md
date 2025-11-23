@@ -12,7 +12,7 @@
 
 ### **Student Contributors**
 - **Shamique Khan** (Reg No. 25BAI10187)
-- **Prachi Kamboj** (Reg No. 25BAI1XXXX)
+- **Prachi Kamboj** (Reg No. 25BAI10874)
 
 ### **Project Type**
 Educational quantum mechanics computational tool combining theoretical physics, numerical methods, and chemistry applications.
@@ -603,7 +603,7 @@ quantum-system-solver/
 This educational project is provided for learning purposes under the VIT Bhopal Computational Chemistry course.
 
 **Attribution**: 
-- Created by Shamique Khan (25BAI10187) & Prachi Kamboj (25BAI1XXXX)
+- Created by Shamique Khan (25BAI10187) & Prachi Kamboj (25BAI10874)
 - Under guidance of Dr. Saurav Prasad
 - VIT Bhopal, 2025
 
