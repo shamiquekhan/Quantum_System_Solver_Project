@@ -13,6 +13,7 @@
 ### **Student Contributors**
 - **Shamique Khan** (Reg No. 25BAI10187)
 - **Prachi Kamboj** (Reg No. 25BAI10874)
+- **Prashant Singh** (Reg No. 25BAI10980)
 
 ### **Project Type**
 Educational quantum mechanics computational tool combining theoretical physics, numerical methods, and chemistry applications.
